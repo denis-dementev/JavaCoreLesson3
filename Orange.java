@@ -1,8 +1,5 @@
 package Lesson2;
 
-/**
- * Апельсинки
- */
 public class Orange extends Fruit {
 
     Orange() {
